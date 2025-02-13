@@ -1,5 +1,6 @@
 # To-Do-List
-
+<br>
+Author: Smit Patel
 
 ## Overview
 
